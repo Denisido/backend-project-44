@@ -4,3 +4,7 @@
 ### Brain-even game demonstration
 
 https://asciinema.org/a/IjtVbPVAXQPzUf6H
+
+
+### Brain-calc game demonstration
+https://asciinema.org/a/00gyBpHS2IZjIxPX
