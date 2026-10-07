@@ -1,3 +1,5 @@
+[![say-hello](https://github.com/Denisido/backend-project-44/actions/workflows/say-hello.yml/badge.svg)](https://github.com/Denisido/backend-project-44/actions/workflows/say-hello.yml)
+
 # Brain Games
 
 [![Actions Status](https://github.com/Denisido/backend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Denisido/backend-project-44/actions)
